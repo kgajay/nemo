@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MathAppTester">
+    <test name="Mockito Test">
+        <classes>
+            <class name="com.nemo.mockito.MathAppTester"/>
+        </classes>
+    </test>
+</suite>
